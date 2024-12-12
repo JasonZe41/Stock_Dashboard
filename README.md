@@ -74,7 +74,6 @@ spark-submit \
    - Historical data: Retrieved directly from HBase
    - Recent data: Fetched from Polygon API, processed through Kafka, and stored in HBase
 3. Results displayed to user with calculated metrics
-```
 
 ## Screenshots
 ![Screenshot 1](screenshots/img1.png)
