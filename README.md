@@ -1,4 +1,6 @@
 
+Github: https://github.com/JasonZe41/Stock_Dashboard
+
 # Stock Analysis System
 
 This project implements a Lambda architecture for stock data analysis, combining batch processing of historical data with real-time processing of current market data.
@@ -79,3 +81,4 @@ spark-submit \
 ![Screenshot 1](screenshots/img1.png)
 ![Screenshot 2](screenshots/img2.png)
 ![Screenshot 3](screenshots/log.png)
+
